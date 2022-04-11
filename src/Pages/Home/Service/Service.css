@@ -1,0 +1,13 @@
+.service-container {
+  border: 2px solid lightgray;
+  width: 20rem;
+  border-radius: 10px;
+  margin: 0px auto;
+  padding: 10px;
+}
+
+@media only screen and (max-width: 576px) {
+  .service-container {
+    margin: 0px 10px;
+  }
+}
